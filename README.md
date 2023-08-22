@@ -7,7 +7,7 @@ Unleash trading mastery with TendieBot. It's the ultimate blend of boldness and 
 ## Table of Contents 
 
 - [Overview](#Overview)
-- [Steps](#Steps)
+- [Tendies](#Tendies)
 
 
 ## Overview
@@ -31,7 +31,7 @@ Are you tired of missing out on those sweet, sweet tendies? Look no further, fel
 Remember, this isn't just any bot – it's TendieBot, born from the heart of USA and forged in the crucible of meme warfare. So, get ready to seize the trading world by the tendies and embark on a journey to financial victory that only a true tendie aficionado can appreciate. To the moon and beyond! 🚀🌕
 
 
-## How-to get Tendies
+## Tendies
 
 **Step 1:**
 Set up the Pyton Environment:
