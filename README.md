@@ -10,7 +10,8 @@ In a nutshell, this tool fuses cutting-edge AI with financial savvy, ensuring yo
 
 ## Table of Contents 
 
--[Overview](#overview)
+- [Overview](#Overview)
+- [Features](#Features)
 
 
 ## Overview
@@ -30,3 +31,36 @@ Then comes the ChatGPT showdown, where this AI beast crunches that text salad an
 But the magic doesn't stop there, folks. We're bringing it home, straight to your Excel kingdom. We seamlessly slide that summary right next to the keywords you were hunting, like a smooth operator. So when you crack open that sheet, you've got the freshest financial insights staring you down, ready to help you make moves that would make even Warren Buffet rethink his life choices.
 
 In short, the Automated Information Extraction and Summarization Tool is your ticket to Wall Street fame without the hassle. It's like having a rocket-powered, diamond-plated financial analyst at your beck and call. So suit up, strap in, and get ready to ride the tendies train to tendies town, because this tool is the real deal, and you're about to conquer the markets like a true WSB champ. Diamond hands, my friends! 💎🙌🚀🌕
+
+
+## Features
+
+**Automated Data Extraction:** Seamlessly pull specific keywords from an Excel sheet, initiate Google searches, and fetch relevant news articles automatically.
+
+**Real-Time Filtering:** Apply time-based filters to Google search results, ensuring articles are limited to the last 24 hours for up-to-the-minute insights.
+
+**Keyword-Driven Article Selection:** Identify and select articles that contain keywords from the headline, ensuring relevancy to your chosen topics.
+
+**Web Scraping Mastery:** Utilize web scraping techniques to extract the complete text of chosen articles, preserving all crucial information.
+
+**ChatGPT Integration:** Integrate ChatGPT API for generating concise, human-like summaries that focus on specific economic factors, such as unemployment outlook.
+
+**Dynamic Prompt Creation:** Automatically construct prompts for ChatGPT that encapsulate the article's contents and specific analysis requirements.
+
+**Simple User Interface:** Provide an intuitive interface for users to start the extraction and summarization process with minimal effort.
+
+**Excel Integration:** Seamlessly update Excel worksheets with extracted summaries, placing them alongside corresponding keywords for organized analysis.
+
+**Error Handling:** Implement error handling mechanisms to ensure smooth execution, even in cases of network issues or missing data.
+
+**Configurable Settings:** Allow users to customize search parameters, keywords, and analysis preferences to cater to various research needs.
+
+**Data Security:** Ensure data privacy and security by following best practices for handling user data and API keys.
+
+**Documentation:** Offer comprehensive documentation that guides users through installation, setup, and usage of the tool.
+
+**Contributor-Friendly:** Provide a clear structure and guidelines for potential contributors to enhance or customize the tool.
+
+**Testing Suite:** Develop a suite of automated tests to ensure consistent functionality and performance across updates.
+
+**Error Logging:** Implement logging to capture any issues during the extraction, summarization, or integration process for troubleshooting.
