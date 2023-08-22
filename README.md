@@ -1,12 +1,8 @@
-# Automated Intel Selection, Extraction & Summarization
+# TendieBot
 
-Introducing the Automated Intel Selection, Extraction and Summarization Tool—a financial ally that transforms market data into golden nuggets of wisdom. With lightning speed, it scours the web for news articles packed with insights from the last 24 hours. 
+**TendieBot:** Uniting YOLO Option Swagger and AI Wizardry 🐔🚀
 
-But that's not all! 
-
-The magic continues as it faces off with (AI) ChatGPT, crafting concise summaries that distill complex economic trends into a single paragraph. And guess what? Those summaries? They land right in your Excel sheet, side by side with your chosen keywords.
-
-In a nutshell, this tool fuses cutting-edge AI with financial savvy, ensuring you're armed with the freshest insights without breaking a sweat. It's your ticket to conquer the markets like a true Wall Street Silver Back Gorilla. Don't miss out on a chance to elevate your trading game—embrace the power of Automated Information Extraction and Summarization Tool today! 🚀🌟
+Unleash trading mastery with TendieBot. It's the ultimate blend of boldness and AI brilliance, bringing tendie victory within reach. Get ready to conquer markets, one tendie at a time. 🚀💰
 
 ## Table of Contents 
 
@@ -16,21 +12,23 @@ In a nutshell, this tool fuses cutting-edge AI with financial savvy, ensuring yo
 
 ## Overview
 
-Listen up! Introducing the Automated Information Selection, Extraction and Summarization Tool, your new sidekick in conquering the financial spiderverse. 
+**Introducing TendieBot:** Your Ticket to Tendielicious Trips to the Moon 🚀🐔
 
-This bad boy is built on Python steroids, designed to take the sweat out of mining golden nuggets from the web and spinning them into compact insights that even a 🦍 can understand.
+Are you tired of missing out on those sweet, sweet tendies? Look no further, fellow autists! TendieBot is here to empower your diamond hands and help you navigate the wild world of stonks with the finesse of a WSB legend.
 
-Imagine this: you upload some boring Excel sheet with a list of keywords, hit the "SWERGE" button, and BAM! Our bangin-wizard algorithms dive headfirst into the depths of Google, fetching you fresher-than-fresh news articles, all about the market-moving stuff that happened in the last 24 hours. 
+🤖 **Unleash the Power of AI:** TendieBot combines cutting-edge AI technology. It tirelessly scans the meme-infested corners of the market, deciphering the intricate dance of bull runs and short squeezes.
 
-But wait, it gets juicier!
+💼 **Information Extravaganza:** Say goodbye to hours of data sifting. TendieBot extracts key information from a cacophony of market chatter, DDs, and YOLOs, delivering you only the juiciest morsels that could move your portfolio to the moon.
 
-We're talking deep dives into those articles, extracting every piece of substance gold the article has got to offer. 
+📊 **Summarize & Strategize:** TendieBot isn't just about the memes; it's about results. Get concise, yet brilliantly insightful summaries of market trends, meme stock movements, and potential catalysts. Armed with these, you'll be ready to make tendies rain!
 
-Then comes the ChatGPT showdown, where this AI beast crunches that text salad and spits out a bulletproof summary. Think: "Get ready for the hottest unemployment gossip and a sneak peek at how it's shaking the S&P 500, plus a glimpse into the crystal ball for future trends—all packed in a tidy paragraph."
+🛎️ **Decision-Making Decoded:** TendieBot empowers you to make informed decisions like never before. With its AI-driven analysis, you'll have a clearer view of the battlefield, allowing you to channel your inner WSB warrior with calculated precision.
 
-But the magic doesn't stop there, folks. We're bringing it home, straight to your Excel kingdom. We seamlessly slide that summary right next to the keywords you were hunting, like a smooth operator. So when you crack open that sheet, you've got the freshest financial insights staring you down, ready to help you make moves that would make even Warren Buffet rethink his life choices.
+💰 **Tendies Galore:** The ultimate goal? Tendies, tendies, and more tendies! TendieBot assists in crafting smart trading strategies based on meme momentum and meme sentiment. It's like having a WallStreetBets Yoda guiding your every trade.
 
-In short, the Automated Information Extraction and Summarization Tool is your ticket to Wall Street fame without the hassle. It's like having a rocket-powered, diamond-plated financial analyst at your beck and call. So suit up, strap in, and get ready to ride the tendies train to tendies town, because this tool is the real deal, and you're about to conquer the markets like a true WSB champ. Diamond hands, my friends! 💎🙌🚀🌕
+🚀 **Set Your Own YOLO Threshold:** TendieBot respects the WSB spirit of risk-taking. Whether you're a "YOLO all-in" type or prefer a more conservative approach, TendieBot can be tailored to your trading style, ensuring maximum gainz while keeping the losses at bay.
+
+Remember, this isn't just any bot – it's TendieBot, born from the heart of Wall Street Bets and forged in the crucible of meme warfare. So, get ready to seize the trading world by the tendies and embark on a journey to financial victory that only a true WSB aficionado can appreciate. To the moon and beyond! 🚀🌕
 
 
 ## Features
