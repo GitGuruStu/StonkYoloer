@@ -7,7 +7,7 @@ Unleash trading mastery with TendieBot. It's the ultimate blend of boldness and 
 ## Table of Contents 
 
 - [Overview](#Overview)
-- [Features](#Features)
+- [Steps](#Steps)
 
 
 ## Overview
@@ -31,34 +31,14 @@ Are you tired of missing out on those sweet, sweet tendies? Look no further, fel
 Remember, this isn't just any bot – it's TendieBot, born from the heart of USA and forged in the crucible of meme warfare. So, get ready to seize the trading world by the tendies and embark on a journey to financial victory that only a true tendie aficionado can appreciate. To the moon and beyond! 🚀🌕
 
 
-## Features
+## How-to get Tendies
 
-**Automated Data Extraction:** Seamlessly pull specific keywords from an Excel sheet, initiate Google searches, and fetch relevant news articles automatically.
+**Step 1:**
+Set up the Pyton Environment:
 
-**Real-Time Filtering:** Apply time-based filters to Google search results, ensuring articles are limited to the last 24 hours for up-to-the-minute insights.
+![BE26B009-23BF-4E6D-9A9B-997EE100C004_4_5005_c](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/2d51860c-c072-4884-8c3d-c774a46c70b2)
 
-**Keyword-Driven Article Selection:** Identify and select articles that contain keywords from the headline, ensuring relevancy to your chosen topics.
 
-**Web Scraping Mastery:** Utilize web scraping techniques to extract the complete text of chosen articles, preserving all crucial information.
 
-**ChatGPT Integration:** Integrate ChatGPT API for generating concise, human-like summaries that focus on specific economic factors, such as unemployment outlook.
 
-**Dynamic Prompt Creation:** Automatically construct prompts for ChatGPT that encapsulate the article's contents and specific analysis requirements.
 
-**Simple User Interface:** Provide an intuitive interface for users to start the extraction and summarization process with minimal effort.
-
-**Excel Integration:** Seamlessly update Excel worksheets with extracted summaries, placing them alongside corresponding keywords for organized analysis.
-
-**Error Handling:** Implement error handling mechanisms to ensure smooth execution, even in cases of network issues or missing data.
-
-**Configurable Settings:** Allow users to customize search parameters, keywords, and analysis preferences to cater to various research needs.
-
-**Data Security:** Ensure data privacy and security by following best practices for handling user data and API keys.
-
-**Documentation:** Offer comprehensive documentation that guides users through installation, setup, and usage of the tool.
-
-**Contributor-Friendly:** Provide a clear structure and guidelines for potential contributors to enhance or customize the tool.
-
-**Testing Suite:** Develop a suite of automated tests to ensure consistent functionality and performance across updates.
-
-**Error Logging:** Implement logging to capture any issues during the extraction, summarization, or integration process for troubleshooting.
