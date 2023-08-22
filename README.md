@@ -33,10 +33,20 @@ Remember, this isn't just any bot – it's TendieBot, born from the heart of USA
 
 ## Tendies
 
-**Step 1:**
-Set up the Pyton Environment:
+
+**Step 1: Set up the Pyton Environment -**
 
 ![BE26B009-23BF-4E6D-9A9B-997EE100C004_4_5005_c](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/2d51860c-c072-4884-8c3d-c774a46c70b2)
+
+
+
+
+
+**Step 2: Create and Configure your Programmable Search Engine -**
+
+
+
+
 
 
 
