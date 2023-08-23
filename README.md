@@ -1,8 +1,8 @@
 # TendieBot
 
-**TendieBot:** Uniting YOLO Option Swagger and AI Wizardry 🐔🚀
+**TendieBot:** Get ready to conquer markets, one tendie at a time. 🐔🚀💰
 
-Unleash trading mastery with TendieBot. It's the ultimate blend of boldness and AI brilliance, bringing tendie victory within reach. Get ready to conquer markets, one tendie at a time. 🚀💰
+  
 
 ## Table of Contents 
 
