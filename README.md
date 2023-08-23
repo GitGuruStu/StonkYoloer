@@ -34,7 +34,9 @@ Remember, this isn't just any bot – it's TendieBot, born from the heart of USA
 ## Tendies
 
 
-**Step 1: Set up the Pyton Environment -**
+**Step 1: Install Required Software: -**
+
+Install Required Libraries: Open a command prompt or terminal and run these commands:
 
 ![BE26B009-23BF-4E6D-9A9B-997EE100C004_4_5005_c](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/2d51860c-c072-4884-8c3d-c774a46c70b2)
 
@@ -42,13 +44,35 @@ Remember, this isn't just any bot – it's TendieBot, born from the heart of USA
 
 
 
-**Step 2: Create and Configure your Programmable Search Engine -**
+**Step 2: Prepare Excel Workbook: -**
+
+Create an Excel file named "tendiebot.xlsx" with a sheet named "Tendiebot". 
+
+![274CF89D-703F-4D73-A46C-A10919911CC1_4_5005_c](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/1eb914ac-e099-47df-9acf-72df3ad84e07)
+
+
+Put your 100 keywords in Column A.
+
+![793A01EA-8C8A-4822-8664-A122F27EEEF9_4_5005_c](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/23387993-8e4a-4caf-be4b-22a2f44a17fd)
 
 
 
+**Step 3: Write the Python Script:**
+Create a new text file with the .py extension. 
+Use a code editor to write the code.
 
 
+![373CDF6B-3200-4C83-A881-AEFFF5FE7F4B](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/aa787967-6329-41f5-a2f4-fce70178c82e)
 
 
+**Step 4: Run the Script:**
+In the terminal, navigate to the directory where your TendieBot.py script is located
+
+![033C1F45-A9F8-4D8E-BACE-274A5E24B72D_4_5005_c](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/3d5c8c07-b326-4cd1-9a95-066f6748a049)
+
+Then run the script using the Python 3 interpreter:
+
+![4EDA2F8C-7B30-4ACD-8D55-DF4B3D5736F9_4_5005_c](https://github.com/GitGuruStu/StonkYoloer/assets/142630226/ad057e52-f73c-4e13-bea7-2c8fdbeac2bd)
 
 
+# Current error .... the script runs, but the tendiebot does not find any tendies. 
